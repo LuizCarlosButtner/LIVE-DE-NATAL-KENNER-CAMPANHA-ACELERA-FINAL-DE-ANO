@@ -118,10 +118,11 @@ body::before {
 @media (min-width: 1200px) {
     body::before {
         /* Em telas muito grandes, 'cover' volta a ser uma boa opção para preencher tudo */
-        background-size: 90%;
+        background-size: 120%;
     }
     .video-button {
         top: 150px;
         font-size: 32px;
     }
 }
+
